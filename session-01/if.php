@@ -8,3 +8,5 @@ if($a > $b) {
 
 	echo "Success";
 }
+
+echo "hello functions";
